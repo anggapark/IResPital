@@ -1,7 +1,7 @@
 # Tugas Akhir Mata Kuliah KOM20F - Basisdata
 ## Anggota Kelompok
-Paralel: 2 <br />
-Kelompok 8
+Paralel : 2 <br />
+Kelompok : 8
 |             Nama           | NIM           |
 | -------------------------- |:-------------:|
 | Hasrul Malik Putra Mashun      | G6401201064 |
