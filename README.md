@@ -15,3 +15,7 @@ IResPital adalah sebuah aplikasi berbasis web yang digunakan oleh pasien untuk d
 tanpa harus berada di lokasi secara langsung. <br />
 Target dari pembuatan website ini adalah masyarakat dapat melakukan konsultasi dengan dokter tanpa harus mengantri untuk check-in administrasi rumah sakit dan untuk mempermudah administrasi rumah sakit.
 
+
+## Resources
+- Start Bootstrap - SB Admin 2
+  https://startbootstrap.com/theme/sb-admin-2
