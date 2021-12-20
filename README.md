@@ -11,5 +11,7 @@ Kelompok 8
 
 
 # IResPital
-IResPital adalah sebuah aplikasi berbasis web yang digunakan oleh pasien untuk dapat melakukan proses booking konsultasi dengan dokter tanpa berada di lokasi secara langsung. Target dari pembuatan website ini adalah masyarakat dapat melakukan konsultasi dengan dokter tanpa harus mengantri untuk check-in administrasi rumah sakit.
+IResPital adalah sebuah aplikasi berbasis web yang digunakan oleh pasien untuk dapat melakukan proses booking konsultasi dengan dokter 
+tanpa berada di lokasi secara langsung. <br />
+Target dari pembuatan website ini adalah masyarakat dapat melakukan konsultasi dengan dokter tanpa harus mengantri untuk check-in administrasi rumah sakit.
 
