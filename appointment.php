@@ -1,9 +1,6 @@
 <!-- Panggil file header -->
 <?php include "header.php";?>
-
 <?php include "koneksi.php";?>
-
-
 
 
 <?php
