@@ -172,9 +172,9 @@ if(isset($_POST['book4'])){
                                     <label>Waktu</label>
                                     <select class="form-control" name="waktu" required>
                                         <option value =""></option>
-                                        <option value ="Pagi">08:00-10:00</option>
-                                        <option value ="Siang">12:00-14:00</option>
-                                        <option value ="Malam">19:00-21:00</option>
+                                        <option value ="08:00-10:00">08:00-10:00</option>
+                                        <option value ="12:00-14:00">12:00-14:00</option>
+                                        <option value ="19:00-21:00">19:00-21:00</option>
                                     </select>  
                                 </div>
                                 <div class="form-group">
