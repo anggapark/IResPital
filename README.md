@@ -19,3 +19,7 @@ Target dari pembuatan website ini adalah masyarakat dapat melakukan konsultasi d
 ## Resources
 - Start Bootstrap - SB Admin 2 <br />
   https://startbootstrap.com/theme/sb-admin-2
+- Bootstrap v5.0.2 (https://getbootstrap.com/)
+- Copyright 2011-2021 The Bootstrap Authors.
+- Copyright 2011-2021 Twitter, Inc.
+- Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
